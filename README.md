@@ -28,7 +28,7 @@ A modern and responsive business consulting website built using HTML, CSS, and J
 2. Navigate to the project folder:
 
    ```bash
-   cd bubble-consult
+   cd bubble-consult-website
    ```
 
 3. Open `index.html` in your browser to view the website.
